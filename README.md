@@ -41,3 +41,8 @@ csv table storing the category and description (as on Google Play store) of each
 ### permission list ordered 317 with description highlighted dangerous.xlsx
 Manual mapping between permission and the corresponding permission (as in AndroidManifest.xml), together with the more detailed description (from various sources), and decision rationale. 
 It also includes the statistics of number of apps requesting each permission.
+  
+  
+### Raw_Dataset.zip
+A set of labeled permission requests, grouped by permission ID. 
+1 means permission request is justified, 0 means not justified
