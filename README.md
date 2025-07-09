@@ -3,7 +3,7 @@ Contains the files for Android App privacy quantification
   
 
 ### app details ordered all apps 20230213 wcl.csv
-csv table storing the description of the crawled apps
+csv table storing the description of the crawled apps; in zip format
 |app_link|app_version|CHAR_LENGTH(app_description)|app_description|
 |-----:|-----------|--|--|
   
@@ -27,7 +27,7 @@ csv table storing the name of each category
   
   
 ### app permissions ordered all apps 20230213.csv
-csv table storing the permission request of an app (with the corresponding version)
+csv table storing the permission request of an app (with the corresponding version); in zip format
 |app_link|app_version|permission|
 |--|--|--|
   
