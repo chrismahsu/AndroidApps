@@ -8,12 +8,6 @@ csv table storing the description of the crawled apps
 |-----:|-----------|--|--|
   
   
-### app creator table ordered all apps 20230213.csv
-csv table storing the creator of the app
-|app_link|app_creator|
-|--|--|
-  
-  
 ### app category ordered all apps 20230213.csv
 csv table storing the category of the app (an app may belong to more than one category)
 |app_link|category|
