@@ -1,0 +1,318 @@
+permission,permission_category,permission_description
+1,Device & app history,retrieve running apps
+2,Wi-Fi connection information,view Wi-Fi connections
+3,Photos/Media/Files,read the contents of your USB storage
+4,Photos/Media/Files,modify or delete the contents of your USB storage
+5,Storage,read the contents of your USB storage
+6,Storage,modify or delete the contents of your USB storage
+7,Other,receive data from Internet
+8,Other,full network access
+9,Other,prevent device from sleeping
+10,Other,disable your screen lock
+11,Other,control vibration
+12,Other,view network connections
+13,Other,run at startup
+14,Microphone,record audio
+15,Location,approximate location (network-based)
+16,Identity,add or remove accounts
+17,Camera,take pictures and videos
+18,Other,close other apps
+19,Other,pair with Bluetooth devices
+20,Other,change network connectivity
+21,Other,use accounts on the device
+22,Other,connect and disconnect from Wi-Fi
+23,Other,change your audio settings
+24,Other,access Bluetooth settings
+25,Other,manage document storage
+26,Other,read Google service configuration
+27,Other,Google Play license check
+28,Phone,read phone status and identity
+29,Device ID & call information,read phone status and identity
+30,Other,SmartcardServicePermission label
+31,Other,read battery statistics
+32,Other,draw over other apps
+33,Other,modify system settings
+34,Other,send sticky broadcast
+35,Other,allow Wi-Fi Multicast reception
+36,Other,change system display settings
+37,Location,precise location (GPS and network-based)
+38,Contacts,find accounts on the device
+39,Identity,find accounts on the device
+40,Other,download files without notification
+41,Other,act as the AccountManagerService
+42,Device & app history,read sensitive log data
+43,Other,read Home settings and shortcuts
+44,Other,install shortcuts
+45,Contacts,read your contacts
+46,Other,modify battery statistics
+47,Photos/Media/Files,access USB storage filesystem
+48,Other,set an alarm
+49,Other,reorder running apps
+50,Other,permission to install a location provider
+51,Other,change screen orientation
+52,Other,control Near Field Communication
+53,Other,Modify Google service configuration
+54,Other,expand/collapse status bar
+55,Other,read the contents of your USB storage
+56,Other,modify or delete the contents of your USB storage
+57,Other,control flashlight
+58,Other,adjust your wallpaper size
+59,Other,set wallpaper
+60,Other,delete other apps' caches
+61,Other,uninstall shortcuts
+62,Other,create accounts and set passwords
+63,Other,full license to interact across users
+64,Other,measure app storage space
+65,Other,run the application's scheduled background work
+66,Cellular data settings,change/intercept network settings and traffic
+67,Other,directly install apps
+68,Other,power device on or off
+69,Other,send package removed broadcast
+70,Location,access extra location provider commands
+71,Other,retrieve details of running apps
+72,Wearable sensors/Activity data,body sensors (like heart rate monitors)
+73,Other,interact across users
+74,Other,read terms you added to the dictionary
+75,Other,update component usage statistics
+76,Identity,read your own contact card
+77,Other,Access download manager.
+78,Other,mock location sources for testing
+79,Other,modify/delete internal media storage contents
+80,Calendar,add or modify calendar events and send email to guests without owners' knowledge
+81,Calendar,read calendar events plus confidential information
+82,Other,Broadcast data messages to apps.
+83,Other,disable or modify status bar
+84,Other,control media playback and metadata access
+85,Other,read sync settings
+86,Other,toggle sync on and off
+87,Phone,directly call phone numbers
+88,Other,access the cache filesystem
+89,Other,write Home settings and shortcuts
+90,Other,bind to a VPN service
+91,Other,retrieve running apps
+92,Other,enable app debugging
+93,Other,manage users
+94,Device & app history,read your Web bookmarks and history
+95,Other,write web bookmarks and history
+96,Device & app history,retrieve system internal state
+97,Other,read TV channel/program information
+98,Other,write TV channel/program information
+99,Other,bind to a notification listener service
+100,Other,delete apps
+101,Phone,add voicemail
+102,Contacts,modify your contacts
+103,SMS,read your text messages (SMS or MMS)
+104,Phone,read call log
+105,SMS,receive text messages (SMS)
+106,Other,read frame buffer
+107,SMS,receive text messages (MMS)
+108,SMS,send SMS messages
+109,SMS,edit your text messages (SMS or MMS)
+110,Phone,directly call any phone numbers
+111,Phone,write call log
+112,Phone,reroute outgoing calls
+113,Phone,modify phone state
+114,Photos/Media/Files,erase USB storage
+115,Other,record what you type and actions you take
+116,Other,read sync statistics
+117,Other,modify global animation speed
+118,Identity,modify your own contact card
+119,Other,Send download notifications.
+120,Other,capture video output
+121,Other,delete all app cache data
+122,Other,transmit infrared
+123,Other,allow Bluetooth pairing by Application
+124,Other,Interact with update and recovery system
+125,Other,set time
+126,Other,set time zone
+127,Other,delete other apps' data
+128,Other,modify secure system settings
+129,Other,choose widgets
+130,Other,Access keyguard secure storage
+131,Other,bind to a wallpaper
+132,Other,enable or disable app components
+133,Other,force stop other apps
+134,Other,status bar
+135,Other,modify app ops statistics
+136,Other,limit number of running processes
+137,Other,set preferred apps
+138,Other,add words to user-defined dictionary
+139,Other,access all TV channel/program information
+140,Other,Access email provider data
+141,Other,Read email attachments
+142,Other,Access all system downloads
+143,Other,read subscribed feeds
+144,Other,add or remove a device admin
+145,Other,bind to an accessibility service
+146,Other,access external storage of all users
+147,Other,get current app info
+148,Other,control system backup and restore
+149,Other,write subscribed feeds
+150,Other,capture audio output
+151,Other,capture secure video output
+152,Other,access SurfaceFlinger
+153,Other,press keys and control buttons
+154,Other,listen for observations on network conditions
+155,Other,Hotword detection
+156,Other,manage activity stacks
+157,Other,manage voice keyphrases
+158,Other,reset system to factory defaults
+159,Other,force device reboot
+160,Other,partial shutdown
+161,Other,prevent app switches
+162,Other,display unauthorized windows
+163,SMS,receive text messages (WAP)
+164,Phone,make/receive SIP calls
+165,Other,stop running apps
+166,Other,interact with a device admin
+167,Other,invoke the carrier-provided configuration app
+168,Other,configure Wifi displays
+169,Other,Control displaying and hiding keyguard
+170,Other,Audio Routing
+171,Other,Whitelist bluetooth device access.
+172,Other,monitor and control all app launching
+173,Other,send SMS-received broadcast
+174,Other,retrieve screen content
+175,Other,Manage media projection sessions
+176,Other,manage network policy
+177,Other,start a task from recents
+178,Other,change/intercept network settings and traffic
+179,Other,make app always run
+180,Other,view configured accounts
+181,Other,use any media decoder for playback
+182,Other,provide an in-call user experience
+183,Other,read voicemail
+184,Other,write voicemails
+185,Other,send respond-via-message events
+186,Other,MMS Wakeup
+187,Other,YouTube
+188,Other,read your social stream
+189,Other,write to your social stream
+190,Other,retrieve app ops statistics
+191,Other,send WAP-PUSH-received broadcast
+192,Other,implement MTP protocol
+193,Other,test hardware
+194,Other,access all Google services
+195,Other,access other Google services
+196,Other,Google Spreadsheets
+197,Other,Google Docs
+198,Other,read precise phone states
+199,SMS,read cell broadcast messages
+200,Other,Google mail
+201,Other,manage preferences and permissions for USB devices
+202,Other,modify network usage accounting
+203,Other,Provide a trust agent.
+204,Other,score networks
+205,Other,reset display timeout
+206,Other,Send broadcasts to Google Play.
+207,Other,Read Google settings
+208,Other,Modify Google settings
+209,Other,Advanced download manager functions.
+210,Other,read historical network usage
+211,Other,modify the Google services map
+212,Other,access to passwords for Google accounts
+213,Other,YouTube usernames
+214,Other,select Gmail or Google Mail branding
+215,Other,Exchanges messages and receives sync notifications from Google servers.
+216,Other,Send heartbeat to Google Talk server
+217,Other,Broadcast XMPP messages to apps.
+218,Other,Preload results
+219,Other,Permission to write Sound Search matches
+220,Other,contacts data in Google accounts
+221,Other,discourage automatic device updates
+222,Other,start any activity
+223,Other,connect and disconnect from WiMAX
+224,Other,Read install sessions
+225,Other,read instant messages
+226,Other,write instant messages
+227,Other,Change WiMAX state
+228,Other,record audio
+229,Other,bind to a print service
+230,Other,take pictures and videos
+231,Other,access watched TV program information
+232,Other,precise location (GPS and network-based)
+233,Other,bind to a text service
+234,Other,access checkin properties
+235,Other,bind to a voice interactor
+236,Other,read phone status and identity
+237,Other,control location update notifications
+238,Other,interact with in-call screen
+239,Other,bind to an input method
+240,Other,directly call phone numbers
+241,Other,bind to NFC service
+242,Other,send Linux signals to apps
+243,Other,force background apps to close
+244,Other,force app to close
+245,Other,move app resources
+246,Other,copy content
+247,Other,find accounts on the device
+248,Other,read/write to resources owned by diag
+249,Other,read your contacts
+250,Other,access DRM certificates
+251,Other,access notifications
+252,Other,interact with telephony services
+253,Other,bind to a widget service
+254,Other,bind to a TV input
+255,Other,Broadcast the call type/duration information
+256,Other,disable transmit indicator LED when camera is in use
+257,Other,Reserve space in the download cache
+258,Other,Launch trust agent settings menu.
+259,Other,manage trusted credentials
+260,Other,modify parental controls
+261,Other,Receive Android Beam transfer status
+262,Other,verify packages
+263,Other,directly start CDMA device setup
+264,Other,Register to handle the broadcasted call type/duration information
+265,Other,receive Bluetooth messages (MAP)
+266,Other,receive emergency broadcasts
+267,Other,remove DRM certificates
+268,Other,access serial ports
+269,Other,view Wi-Fi connections
+270,Other,access InputFlinger
+271,Other,access Bluetooth MAP data
+272,Other,manage app tokens
+273,Other,bind to a dream service
+274,Other,permanently disable device
+275,Other,run in factory test mode
+276,Other,change pointer speed
+277,Other,grant or revoke permissions
+278,Other,read sensitive log data
+279,Other,control Wifi displays
+280,Other,start print service configuration activities
+281,Other,Google Maps
+282,Other,approximate location (network-based)
+283,Other,AdSense
+284,Other,AdWords
+285,Other,Google App Engine
+286,Other,Blogger
+287,Other,Google Calendar
+288,Other,Dodgeball
+289,Other,Google Finance
+290,Other,Google Base
+291,Other,Google Voice
+292,Other,Google Groups
+293,Other,Google Health
+294,Other,iGoogle accounts
+295,Other,JotSpot
+296,Other,Knol
+297,Other,Picasa Web Albums
+298,Other,Google mobile apps
+299,Other,Google News
+300,Other,Google Notebook
+301,Other,Orkut
+302,Other,Google Book Search
+303,Other,Google Webmaster Tools
+304,Other,Google Voice Search
+305,Other,Personalized Speech Recognition
+306,Other,Google Talk
+307,Other,Google Wi-Fi
+308,Other,access content providers externally
+309,Other,get information on internal storage
+310,Other,create internal storage
+311,Other,destroy internal storage
+312,Other,mount/unmount internal storage
+313,Other,rename internal storage
+314,Other,modify your contacts
+315,Other,change background data usage setting
+316,Other,freeze screen
+317,Other,bind to a condition provider service
