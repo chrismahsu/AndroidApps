@@ -45,4 +45,4 @@ It also includes the statistics of number of apps requesting each permission.
   
 ### Raw_Dataset.zip
 A set of labeled permission requests, grouped by permission ID. 
-1 means permission request is justified, 0 means not justified
+1 means permission request is justified, 0 means not justified, 5 (if exists) means uncertain.
