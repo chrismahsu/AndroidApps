@@ -1,5 +1,5 @@
 # AndroidApps
-Contains the files for Android App privacy quantification
+Contains the files for Android App privacy quantification. The following lists the files inside the dataset folder, which contains the data collected in 2023.
   
 
 ### app details ordered all apps 20230213 wcl.csv
